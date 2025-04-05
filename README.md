@@ -1,7 +1,7 @@
 ## Privacy Policy
-Last updated: 27/8/2024
+Last updated: 05/04/2025
 
-Live Albert Live does not collect, store, or share any personal data from its users. We respect your privacy and are committed to ensuring that your personal information remains secure.
+Our app does not collect, store, or share any personal data from its users. We respect your privacy and are committed to ensuring that your personal information remains secure.
 
 ### Data Collection
 
